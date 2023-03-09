@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cb-viewer", "cb-viewer\cb-viewer.csproj", "{E1B3B943-A067-41DF-9AC9-E2786CA70EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cb-viewerCore", "cb-viewerCore\cb-viewerCore.csproj", "{CFA4C2D0-ECC7-4E3D-912E-282D6AE4C10A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B3B943-A067-41DF-9AC9-E2786CA70EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B3B943-A067-41DF-9AC9-E2786CA70EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B3B943-A067-41DF-9AC9-E2786CA70EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B3B943-A067-41DF-9AC9-E2786CA70EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA4C2D0-ECC7-4E3D-912E-282D6AE4C10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA4C2D0-ECC7-4E3D-912E-282D6AE4C10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA4C2D0-ECC7-4E3D-912E-282D6AE4C10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA4C2D0-ECC7-4E3D-912E-282D6AE4C10A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13F0C35F-758D-41B3-A533-27DECA5588E0}
+	EndGlobalSection
+EndGlobal
